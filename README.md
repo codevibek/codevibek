@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codevibek
 - 👀 I’m super curious so interested in anything everything.
-- 🌱 I’m currently learning Blockchain.
+- 🌱 I’m currently MERN stack and Blockchain developer.
 - 💞️ I’m looking to collaborate on Web projects.
 - 📫 vibek2925@gmail.com
 
